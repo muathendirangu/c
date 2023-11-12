@@ -2,7 +2,7 @@
 
 /**
  * define all 8 possibles flags for an 8 bit variable
- *       name                   hex                 binary
+ *       name  hex         binary
 */
 #define FLAG_1 0x01     // 0000 0001
 #define FLAG_2 0x02     // 0000 0010
